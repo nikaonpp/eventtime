@@ -1,4 +1,4 @@
-local checkInterval = 10 -- Intervalo de verificação em segundos
+local checkInterval = 30 -- Intervalo de verificação em segundos
 
 -- Função para checar o TimerLabel e executar o comando se o tempo estiver entre 4 e 17 minutos
 local function checkTimerLabel()
